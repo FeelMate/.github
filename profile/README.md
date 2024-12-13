@@ -1,7 +1,7 @@
 ## FeelMate
 FeelMate: Catch the Vibes, Curated Media to Match Your Emotions is an AI-driven app designed to help Indonesian youth manage frequent mood swings caused by minor daily events, which often impact their mental well-being
 <p align="center">
-  <img src="https://i.imgur.com/M57wRDm.png"/>
+  <img src="https://i.imgur.com/8OnWtoD.png"/>
 </p>
 
 
